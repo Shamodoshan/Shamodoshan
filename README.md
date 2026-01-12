@@ -34,7 +34,7 @@ I am a **Full Stack Developer** with a focus on building efficient, data-driven 
 
 <br/>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,vite,bootstrap,tailwind,laravel,django,postgres,mysql,git,github,nodejs,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,vite,bootstrap,tailwind,laravel,django,postgres,mysql,git,github,nodejs,vscode,postman,jquery,typescript" />
 </div>
 
 
@@ -92,10 +92,20 @@ I am a **Full Stack Developer** with a focus on building efficient, data-driven 
 ---
 
 
+### ☕ Support My Work
+
+<div>
+    
+I spend a lot of time building, learning, and sharing projects.  If you’d like to support my journey, you can buy me a coffee ❤️
+<div align="center">
+<a href="https://www.buymeacoffee.com/shamodoshan" target="_blank" ><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
+</div>
+</div>
+
 
 ###
 
-
+---
 
 ###
 
@@ -108,9 +118,9 @@ I am a **Full Stack Developer** with a focus on building efficient, data-driven 
 <div align="center">
   <div>
   <a href="https://www.linkedin.com/in/shamodoshan/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://web.facebook.com/profile.php?id=100056890793433"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+  <a href="https://discord.com/users/1453615666232819918"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  <a href="https://www.instagram.com/shamod_oshan/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
 </div>
   <sub><b>© 2025 Shamod Oshan</b></sub>
 </div>
