@@ -45,17 +45,17 @@ I am a **Full Stack Developer** with a focus on building efficient, data-driven 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🏛️ Student Management System</h4>
+      <h4>🏛️ StuManage</h4>
       <p><i>A robust CRUD application for managing and organizing student records and database entries.</i></p>
       <ul>
         <li><b>Stack:</b> Laravel, Bootstrap, MySQL</li>
         <li><b>Key Feature:</b> create,read,update and delete.</li>
         <li><b>Database:</b> Optimized MySQL schemas for efficient data retrieval.</li>
       </ul>
-      <a href="https://github.com/Shamodoshan/student-manegement">[View Repository]</a>
+      <a href="https://github.com/Shamodoshan/student-manegement"><img src="https://img.shields.io/badge/View_Repository-100000?style=flat-square&logo=github" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4>💰 Monthly Fee Tracking System</h4>
+      <h4>💰 FEEZ</h4>
       <p><i>A financial monitoring tool to manually record payments and analyze monthly profit and loss.</i></p>
       <ul>
         <li><b>Stack:</b> Django, HTMX, PostgreSQL</li>
@@ -66,19 +66,31 @@ I am a **Full Stack Developer** with a focus on building efficient, data-driven 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎨 Personal Engineering Portfolio</h4>
+      <h4>🎨 Personal Portfolio</h4>
       <p><i>A high-performance digital resume and interactive showcase of my technical work.</i></p>
       <ul>
         <li><b>Stack:</b> React, Vite, Tailwind CSS</li>
       </ul>
-      <a href="https://shamodoshan.github.io/shamod_oshan/">[Go to portfolio]</a>
+      <b>Live:</b><a href="https://shamodoshan.github.io/shamod_oshan/">View Portfolio</a>
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-        <br/><br/><br />
-        <b>More projects coming soon...</b>
-      </div>
+        <h4>📝 TaskFlow</h4>
+      <p><i>A productivity app for managing tasks and notes with a clean and efficient workflow.</i></p>
+      <ul>
+        <li><b>Stack:</b> React , Laravel, Mysql</li>
+      </ul>
+      <a href="https://github.com/Shamodoshan/TaskFlow"><img src="https://img.shields.io/badge/View_Repository-100000?style=flat-square&logo=github" /></a>
   </tr>
+<tr>
+    <td width="50%" valign="top">
+        <h4>🛍️ E-Commerce Platform</h4>
+        <p><i>Full-featured e-commerce website built for modern shopping experience.</i></p>
+      <ul>
+        <li><b>Stack:</b> React, Laravel, Tailwind, MySQL</li>
+      </ul
+        <a href="https://github.com/Shamodoshan/Ecommerce_project"><img src="https://img.shields.io/badge/View_Repository-100000?style=flat-square&logo=github" /></a>
+    </td>
+</tr>
 </table>
 
 ---
